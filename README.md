@@ -20,29 +20,22 @@ This project simulates the operation of an in-person event management dashboard,
 
 ### Functional requirements
 
-[x] The organizer must be able to register a new event.
-
-[x] The organizer must be able to view event data.
-
-[x] The organizer must be able to view the list of participants.
-
-[x] The participant must be able to register for an event.
-
-[x] The participant must be able to view their registration badge.
-
-[x] The participant must be able to check-in at the event.
+- [x] The organizer must be able to register a new event.
+- [x] The organizer must be able to view event data.
+- [x] The organizer must be able to view the list of participants.
+- [x] The participant must be able to register for an event.
+- [x] The participant must be able to view their registration badge.
+- [x] The participant must be able to check-in at the event.
 
 ### Business rules
 
-[x] Participants can only register for an event once.
-
-[x] Participants can only register for events with available places.
-
-[x] Participants can only check-in to an event once.
+- [x] Participants can only register for an event once.
+- [x] Participants can only register for events with available places.
+- [x] Participants can only check-in to an event once.
 
 ### Non-functional requirements
 
-[x] Check-in at the event will be carried out using a QRCode.
+- [x] Check-in at the event will be carried out using a QRCode.
 
 ## Installation
 
